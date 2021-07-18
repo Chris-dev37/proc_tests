@@ -1,0 +1,1 @@
+Code was written in VS code and run through the debugger to print the results of the programs to the console in VS code.
